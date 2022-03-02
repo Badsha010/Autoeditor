@@ -1,7 +1,7 @@
 {
-  "name": "Channel Bot",
+  "name": "Auto Editor Bot",
   "description": "Telegram bot to automate and manage channels",
-  "logo": "https://telegra.ph/file/98cda0fd7ebdc4002f07e.jpg",
+  "logo": "https://nicebots.herokuapp.com/1c60c/file.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Badsha15/ChannelBot",
+  "repository": "https://github.com/Badsha010/ChannelBot",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
