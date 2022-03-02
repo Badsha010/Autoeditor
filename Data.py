@@ -20,12 +20,12 @@ By @kingBadsha3232
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/Badsha_Studios")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/+plmG4aUd4Gw4MGE1")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/AllBot_Updates")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/+plmG4aUd4Gw4MGE1")],
         [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/Suport_Badsha_Studios")],
     ]
 
@@ -54,7 +54,7 @@ A telegram channel automation bot by @Badsha_Studios
 
 Website : [Telegram Updates](https://allteleinfo.blogspot.com)
 
-YouTube : [Badsha Studios](https://youtube.com/channel/UCK4HndwhT06LHjbAwfwRngQ)
+YouTube : [Badsha Studios](https://youtube.com/channel/UCFjqpS7MmN42sybrG0Vr0NQ)
 
 Movie Channel : [Filmy World](https://t.me/Badsha_Studios)
 
